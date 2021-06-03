@@ -61,6 +61,7 @@ Find out more about me and feel free to connect with me here:
 ![CentOS](https://img.shields.io/badge/-Centos-black?style=flat-square&logo=centos)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=MacOS)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizwanzaheer.rizwanzaheer)
 
