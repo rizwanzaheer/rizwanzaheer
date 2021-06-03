@@ -27,14 +27,16 @@ Find out more about me and feel free to connect with me here:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=Deno)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
@@ -52,9 +54,11 @@ Find out more about me and feel free to connect with me here:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Jira](https://img.shields.io/badge/-jira-black?style=flat-square&logo=jira)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![CentOS](https://img.shields.io/badge/-Centos-black?style=flat-square&logo=centos)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizwanzaheer.rizwanzaheer)
 
 
