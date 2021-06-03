@@ -34,7 +34,7 @@ Find out more about me and feel free to connect with me here:
 ![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logo=vuetify)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=reactnative)
+![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=reactnative)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
