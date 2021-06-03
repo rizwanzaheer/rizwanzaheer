@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px">
 
-<!--
+
+<!-- 👋
 **rizwanzaheer/rizwanzaheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,13 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there <img src="https://raw.githubusercontent.com/rizwanzaheer/rizwanzaheer/master/wave.gif" width="30px">
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-rizwanzaheer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwanzaheer/)](https://www.linkedin.com/in/rizwanzaheerr/)
+[![Linkedin Badge](https://img.shields.io/badge/-rizwanzaheerr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwanzaheerr/)](https://www.linkedin.com/in/rizwanzaheerr/)
 [![Medium Badge](https://img.shields.io/badge/-@rizwanzaheer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rizwanzaheer/)](https://medium.com/@rizwanzaheer)
-<!-- [![Gmail Badge](https://img.shields.io/badge/-rizwanzaheerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizwanzaheerr@gmail.com)](mailto:rizwanzaheerr@gmail.com) -->
+[![Gmail Badge](https://img.shields.io/badge/-rizwanzaheerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizwanzaheerr@gmail.com)](mailto:rizwanzaheerr@gmail.com)
 
 ## ⚡ Technologies
 
