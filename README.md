@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 -->
 
 
-Find out more about me and feel free to connect with me here:
+<!-- Find out more about me and feel free to connect with me here: -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-rizwanzaheerr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwanzaheerr/)](https://www.linkedin.com/in/rizwanzaheerr/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-rizwanzaheerr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwanzaheerr/)](https://www.linkedin.com/in/rizwanzaheerr/) -->
 [![Medium Badge](https://img.shields.io/badge/-@rizwanzaheer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rizwanzaheer/)](https://medium.com/@rizwanzaheer)
 [![Gmail Badge](https://img.shields.io/badge/-rizwanzaheerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizwanzaheerr@gmail.com)](mailto:rizwanzaheerr@gmail.com)
 
