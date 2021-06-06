@@ -13,7 +13,7 @@
 
 </p>
 
-## <p align="center"> 
+<p align="center"> 
  <strong>
   Professional Skills
   </strong>
