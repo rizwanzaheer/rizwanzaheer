@@ -102,18 +102,18 @@ Here are some ideas to get you started:
  <a href="#" alt="Rizwan Zaheer's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=rizwanzaheer&theme=tokyonight&show_icons=true" />
  </a>
- <a href="https://github.com/rizwanzaheer/github-readme-stats">
-  <!-- Change the `github-readme-stats.rizwanzaheer.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.rizwanzaheer.vercel.app/api/top-langs/?username=rizwanzaheer&layout=compact&theme=material-palenight" />
-</a>
+
 </p>
 
-<p align="center">
 <a href="https://github.com/rizwanzaheer/github-readme-stats">
   <!-- Change the `github-readme-stats.rizwanzaheer.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.rizwanzaheer.vercel.app/api/top-langs/?username=rizwanzaheer&layout=compact&theme=material-palenight" />
 </a>
-</p>
+
+<a href="https://github.com/rizwanzaheer/github-readme-stats">
+  <!-- Change the `github-readme-stats.rizwanzaheer.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.rizwanzaheer.vercel.app/api/pin/?username=rizwanzaheer&repo=github-readme-stats&theme=material-palenight" />
+</a>
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/rizwanzahe" target="_blank">
