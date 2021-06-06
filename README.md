@@ -90,6 +90,23 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=MacOS)
 
+
+
+</br>
+
+<p align="center">
+ <a href="#" alt="Rizwan Zaheer's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwanzaheer&theme=tokyonight&show_icons=true" />
+ </a>
+</p>
+
+<p align="center">
+ <a href="https://www.buymeacoffee.com/rizwanzaheer" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
+ </a>
+</p>
+
+
 <!-- Find out more about me and feel free to connect with me here: -->
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-rizwanzaheerr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwanzaheerr/)](https://www.linkedin.com/in/rizwanzaheerr/) -->
