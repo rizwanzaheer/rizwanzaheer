@@ -109,6 +109,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+<a href="https://github.com/rizwanzaheer/github-readme-stats">
+  <!-- Change the `github-readme-stats.rizwanzaheer.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.rizwanzaheer.vercel.app/api/top-langs/?username=rizwanzaheer&layout=compact&theme=material-palenight" />
+</a>
+</p>
+
+<p align="center">
  <a href="https://www.buymeacoffee.com/rizwanzahe" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
  </a>
