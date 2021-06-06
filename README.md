@@ -1,7 +1,6 @@
 <!-- ### Hi there  -->
 
-<h1 align="center">Hi there, I'm 
-### [Rizwan!](https://rizwanzaheer.github.io) <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Rizwan! <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
 
 <p align="center">
  <a href="https://linkedin.com/in/rizwanzaheerr" target="_blank">
@@ -103,6 +102,10 @@ Here are some ideas to get you started:
  <a href="#" alt="Rizwan Zaheer's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=rizwanzaheer&theme=tokyonight&show_icons=true" />
  </a>
+ <a href="https://github.com/rizwanzaheer/github-readme-stats">
+  <!-- Change the `github-readme-stats.rizwanzaheer.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.rizwanzaheer.vercel.app/api/top-langs/?username=rizwanzaheer&layout=compact&theme=material-palenight" />
+</a>
 </p>
 
 <p align="center">
