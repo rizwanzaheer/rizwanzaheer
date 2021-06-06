@@ -1,6 +1,6 @@
 <!-- ### Hi there  -->
 
-<h1 align="center">Hi there, I'm Rizwan! <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there,&nbsp; I'm Rizwan! <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
 
 <p align="center">
  <a href="https://linkedin.com/in/rizwanzaheerr" target="_blank">
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<a href="https://github.com/rizwanzaheer/github-readme-stats">
+<!-- <a href="https://github.com/rizwanzaheer/github-readme-stats">
   <!-- Change the `github-readme-stats.rizwanzaheer.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.rizwanzaheer.vercel.app/api/top-langs/?username=rizwanzaheer&layout=compact&theme=material-palenight" />
 </a>
@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/rizwanzaheer/github-readme-stats">
   <!-- Change the `github-readme-stats.rizwanzaheer.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.rizwanzaheer.vercel.app/api/pin/?username=rizwanzaheer&repo=github-readme-stats&theme=material-palenight" />
-</a>
+</a> -->
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/rizwanzahe" target="_blank">
