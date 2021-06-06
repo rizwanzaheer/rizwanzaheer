@@ -1,6 +1,7 @@
 <!-- ### Hi there  -->
 
-<h1 align="center">Hi there, I'm [Anurag!](https://rizwanzaheer.github.io) <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm 
+### [Rizwan!](https://rizwanzaheer.github.io) <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
 
 <p align="center">
  <a href="https://linkedin.com/in/rizwanzaheerr" target="_blank">
