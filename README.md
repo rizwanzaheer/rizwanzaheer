@@ -90,7 +90,11 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=MacOS)
 
+<!-- Find out more about me and feel free to connect with me here: -->
 
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-rizwanzaheerr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwanzaheerr/)](https://www.linkedin.com/in/rizwanzaheerr/) -->
+[![Medium Badge](https://img.shields.io/badge/-@rizwanzaheer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rizwanzaheer/)](https://medium.com/@rizwanzaheer)
+[![Gmail Badge](https://img.shields.io/badge/-rizwanzaheerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizwanzaheerr@gmail.com)](mailto:rizwanzaheerr@gmail.com)
 
 </br>
 
@@ -101,17 +105,12 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
- <a href="https://www.buymeacoffee.com/rizwanzaheer" target="_blank">
+ <a href="https://www.buymeacoffee.com/rizwanzahe" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
  </a>
 </p>
 
 
-<!-- Find out more about me and feel free to connect with me here: -->
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-rizwanzaheerr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwanzaheerr/)](https://www.linkedin.com/in/rizwanzaheerr/) -->
-[![Medium Badge](https://img.shields.io/badge/-@rizwanzaheer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rizwanzaheer/)](https://medium.com/@rizwanzaheer)
-[![Gmail Badge](https://img.shields.io/badge/-rizwanzaheerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizwanzaheerr@gmail.com)](mailto:rizwanzaheerr@gmail.com)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizwanzaheer.rizwanzaheer)
 
