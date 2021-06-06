@@ -10,6 +10,7 @@
  <a href="https://twitter.com/rizwanzaheerr" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
  </a>
+
 </p>
 
 <p align="center"> 
@@ -46,11 +47,6 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- Find out more about me and feel free to connect with me here: -->
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-rizwanzaheerr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwanzaheerr/)](https://www.linkedin.com/in/rizwanzaheerr/) -->
-[![Medium Badge](https://img.shields.io/badge/-@rizwanzaheer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rizwanzaheer/)](https://medium.com/@rizwanzaheer)
-[![Gmail Badge](https://img.shields.io/badge/-rizwanzaheerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizwanzaheerr@gmail.com)](mailto:rizwanzaheerr@gmail.com)
 
 ## ⚡ Technologies
 
@@ -93,6 +89,12 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=MacOS)
+
+<!-- Find out more about me and feel free to connect with me here: -->
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-rizwanzaheerr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwanzaheerr/)](https://www.linkedin.com/in/rizwanzaheerr/) -->
+[![Medium Badge](https://img.shields.io/badge/-@rizwanzaheer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rizwanzaheer/)](https://medium.com/@rizwanzaheer)
+[![Gmail Badge](https://img.shields.io/badge/-rizwanzaheerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizwanzaheerr@gmail.com)](mailto:rizwanzaheerr@gmail.com)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizwanzaheer.rizwanzaheer)
 
