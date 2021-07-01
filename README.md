@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="#" alt="Rizwan Zaheer's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwanzaheer&theme=tokyonight&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwanzaheer&show_icons=true&count_private=true" />
  </a>
 
 </p>
