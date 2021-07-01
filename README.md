@@ -105,6 +105,10 @@ Here are some ideas to get you started:
 
 </p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hagopj13&show_icons=true&count_private=true&hide=contribs)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hagopj13)
+
 <p align="center">
  <a href="https://www.buymeacoffee.com/rizwanzahe" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
@@ -113,7 +117,8 @@ Here are some ideas to get you started:
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizwanzaheer.rizwanzaheer)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizwanzaheer.rizwanzaheer) -->
+![Profile views](https://gpvc.arturio.dev/rizwanzaheer)
 
 
 <!-- ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel) -->
