@@ -100,14 +100,21 @@ Here are some ideas to get you started:
 
 <p align="center">
  <a href="#" alt="Rizwan Zaheer's github stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwanzaheer&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwanzaheer&theme=tokyonight&show_icons=true&count_private=true" />
  </a>
 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanzaheer&show_icons=true&count_private=true&hide=contribs)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanzaheer&theme=tokyonight&show_icons=true&count_private=true) -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rizwanzaheer)
+<p align="center">
+ <a href="#" alt="Rizwan Zaheer's GitHub streak stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanzaheer" />
+ </a>
+
+</p>
+
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rizwanzaheer) -->
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/rizwanzahe" target="_blank">
