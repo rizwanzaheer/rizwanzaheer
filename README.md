@@ -105,9 +105,9 @@ Here are some ideas to get you started:
 
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hagopj13&show_icons=true&count_private=true&hide=contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanzaheer&show_icons=true&count_private=true&hide=contribs)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hagopj13)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rizwanzaheer)
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/rizwanzahe" target="_blank">
