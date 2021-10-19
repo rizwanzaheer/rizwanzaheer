@@ -59,9 +59,7 @@ Here are some ideas to get you started:
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react-native)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-<!-- ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=Deno) -->
-<!-- ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go) -->
-<!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) -->
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -80,6 +78,9 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+<!-- ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=Deno) -->
+<!-- ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go) -->
+
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
 <!-- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) -->
 <!-- ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket) -->
