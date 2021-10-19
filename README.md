@@ -79,12 +79,13 @@ Here are some ideas to get you started:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
 <!-- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab) -->
 <!-- ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket) -->
 <!-- ![Jira](https://img.shields.io/badge/-jira-black?style=flat-square&logo=jira) -->
 <!-- ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello) -->
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+
 <!-- ![CentOS](https://img.shields.io/badge/-Centos-black?style=flat-square&logo=centos) -->
 <!-- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu) -->
 <!-- ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows) -->
