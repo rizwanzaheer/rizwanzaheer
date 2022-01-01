@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rizwanzaheer) -->
 
 <p align="center">
- <a href="https://www.buymeacoffee.com/rizwanzahe" target="_blank">
+ <a href="https://www.buymeacoffee.com/rizwanzaheer" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
  </a>
 </p>
