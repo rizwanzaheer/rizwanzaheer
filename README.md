@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
 ![Vuex](https://img.shields.io/badge/-Vuex-black?style=flat-square&logo=vuex)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logo=vuetify)
@@ -76,8 +76,8 @@ Here are some ideas to get you started:
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) -->
+<!-- ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) -->
 <!-- ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=Deno) -->
 <!-- ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go) -->
 
@@ -95,8 +95,8 @@ Here are some ideas to get you started:
 <!-- Find out more about me and feel free to connect with me here: -->
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-rizwanzaheerr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwanzaheerr/)](https://www.linkedin.com/in/rizwanzaheerr/) -->
-[![Medium Badge](https://img.shields.io/badge/-@rizwanzaheer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rizwanzaheer/)](https://medium.com/@rizwanzaheer)
-[![Gmail Badge](https://img.shields.io/badge/-rizwanzaheerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizwanzaheerr@gmail.com)](mailto:rizwanzaheerr@gmail.com)
+<!-- [![Medium Badge](https://img.shields.io/badge/-@rizwanzaheer-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rizwanzaheer/)](https://medium.com/@rizwanzaheer)
+[![Gmail Badge](https://img.shields.io/badge/-rizwanzaheerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizwanzaheerr@gmail.com)](mailto:rizwanzaheerr@gmail.com) -->
 
 </br>
 
@@ -117,6 +117,41 @@ Here are some ideas to get you started:
 </p>
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rizwanzaheer) -->
+
+
+## Connect with me
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rizwanzaheer)
+<!-- [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/RSurya) -->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwanzaheerr)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rizwanzaheerr)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizwanzaheerr)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1837/)
+
+
+## Language and Tools
+
+<p>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
+    <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" /></a>
+    <a href="https://nuxtjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40" /></a>
+    <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" /></a>
+    <a href="https://figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg" alt="figma" width="40" height="40" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
+    <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40" /></a>
+    <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" /></a>
+<!--     <a href="http://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /></a> -->
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
+    <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+<!--     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/django/django-original.svg" alt="django" width="40" height="40" /></a> -->
+    <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /></a>
+    <!-- <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40" /></a>
+    <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40" /></a> -->
+</p>
 
 <p align="center">
  <a href="https://www.buymeacoffee.com/rizwanzaheer" target="_blank">
