@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there,&nbsp; I'm Rizwan! <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
 
-<p align="center">
+<!-- <p align="center">
  <a href="https://linkedin.com/in/rizwanzaheerr" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
@@ -11,7 +11,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/twitter.png" />
  </a>
 
-</p>
+</p> -->
 
 <p align="center"> 
  <strong>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 
 
-## ⚡ Technologies
+<!-- ## ⚡ Technologies -->
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
@@ -122,11 +122,11 @@ Here are some ideas to get you started:
 ## Connect with me
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rizwanzaheer)
-<!-- [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/RSurya) -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwanzaheerr)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rizwanzaheerr)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rizwanzaheerr)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1837/)
+<!-- [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/RSurya) -->
 
 
 ## Language and Tools
