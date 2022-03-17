@@ -153,7 +153,9 @@ Here are some ideas to get you started:
     <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40" /></a> -->
 </p>
 
-<p align="center">
+<br />
+
+<p>
  <a href="https://www.buymeacoffee.com/rizwanzaheer" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
  </a>
