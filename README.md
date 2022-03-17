@@ -1,6 +1,6 @@
 <!-- ### Hi there  -->
 
-<h1 align="center">Hi there,&nbsp; I'm Rizwan! <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
+<h1>Hi there,&nbsp; I'm Rizwan! <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
 
 <!-- <p align="center">
  <a href="https://linkedin.com/in/rizwanzaheerr" target="_blank">
@@ -13,13 +13,13 @@
 
 </p> -->
 
-<p align="center"> 
+<p> 
  <strong>
   Professional Skills
   </strong>
 </p>
 
-<p align="center"> 
+<p> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40" />
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 </br>
 
-<p align="center">
+<p >
  <a href="#" alt="Rizwan Zaheer's github stats">
   <img src="https://github-readme-stats.vercel.app/api?username=rizwanzaheer&show_icons=true&count_private=true" />
  </a>
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanzaheer&theme=tokyonight&show_icons=true&count_private=true) -->
 
-<p align="center">
+<p >
  <a href="#" alt="Rizwan Zaheer's GitHub streak stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanzaheer" />
  </a>
