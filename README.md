@@ -1,6 +1,6 @@
 <!-- ### Hi there  -->
 
-<h1>Hi there,&nbsp; I'm Rizwan! <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"> I'm Rizwan!</h1>
 
 <!-- <p align="center">
  <a href="https://linkedin.com/in/rizwanzaheerr" target="_blank">
