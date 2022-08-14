@@ -110,10 +110,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=rizwanzaheer&show_icons=true&count_private=true" />
  </a>
 
-</p>
+</p>-->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanzaheer&theme=tokyonight&show_icons=true&count_private=true) -->
-
+<!-- 
 <p >
  <a href="#" alt="Rizwan Zaheer's GitHub streak stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanzaheer" />
