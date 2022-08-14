@@ -1,6 +1,10 @@
-<!-- ### Hi there  -->
+Hi 👋 I'm Rizwan!
+==============================
 
-<h1>Hi <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"> I'm Rizwan!</h1>
+Software Engineer
+-----------------
+
+
 
 <!-- <p align="center">
  <a href="https://linkedin.com/in/rizwanzaheerr" target="_blank">
