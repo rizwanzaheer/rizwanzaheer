@@ -18,6 +18,17 @@ Software Engineer
 
 </p> -->
 
+
+* 🌍  Based in UAE
+* ✉️  You can contact me at [rizwanzaheerr@gmail.com](mailto:rizwanzaheerr@gmail.com)
+* 🧠  Learning something new 
+* 🤝  Open to collaborating
+* ⚡  I have a IT background, but most of the credit goes to Google and Stack Overflow xD
+
+<a href="https://www.twitter.com/rizwanzaheerr" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/rizwanzaheer?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
+/></a>
+
 ## Skills
 
 <p> 
