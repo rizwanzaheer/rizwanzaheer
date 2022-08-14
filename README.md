@@ -17,7 +17,7 @@ Software Engineer
 
 </p> -->
 
-## Professional Skills
+## Skills
 
 <p> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
