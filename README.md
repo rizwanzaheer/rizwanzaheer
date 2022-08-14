@@ -95,6 +95,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-rizwanzaheerr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizwanzaheerr@gmail.com)](mailto:rizwanzaheerr@gmail.com) -->
 
 </br>
+
 ### Badges
 
 <b>My GitHub Stats</b>
