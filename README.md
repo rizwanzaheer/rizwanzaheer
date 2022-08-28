@@ -25,10 +25,18 @@ Software Engineer
 * 🤝  Open to collaborating
 * ⚡  I have a IT background, but most of the credit goes to Google and Stack Overflow xD
 
+
+📫  Feel free to reach me:
+
+[![Email](https://img.shields.io/badge/Email-%40rizwanzaheerr@gmail.com%20-blue)](mailto:rizwanzaheerr@gmail.com?)
+[![Twitter: rizwanzaheerr](https://img.shields.io/twitter/follow/rizwanzaheerr?style=social)](https://twitter.com/rizwanzaheerr)
+[![Linkedin: rizwanzaheerr](https://img.shields.io/badge/-rizwanzaheerr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizwanzaheerr/)](https://www.linkedin.com/in/rizwanzaheerr/)
+
+<!--
 <a href="https://www.twitter.com/rizwanzaheerr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/rizwanzaheer?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
 /></a>
-
+-->
 ## Skills
 
 <p> 
