@@ -19,7 +19,7 @@ Software Engineer
 </p> -->
 
 
-* 🌍  Based in UAE
+* 🇦🇪  Based in UAE
 * ✉️  You can contact me at [rizwanzaheerr@gmail.com](mailto:rizwanzaheerr@gmail.com)
 * 🧠  Learning something new 
 * 🤝  Open to collaborating
