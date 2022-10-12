@@ -1,4 +1,4 @@
-Hi <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"> I'm Rizwan!
+Hi <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"> Rizwan here!
 ==============================
 
 Software Engineer
