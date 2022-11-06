@@ -20,7 +20,7 @@ Software Engineer
 
 
 * 🇦🇪  Based in UAE
-* 🌱 I’m currently working on [Stake](https://apps.apple.com/ae/app/stake-property-investing/id1591107922) – Frontend Engineer
+* 🌱 I’m currently working on [Stake](https://apps.apple.com/ae/app/stake-property-investing/id1591107922) – Software Engineer
 * ✉️  You can contact me at [rizwanzaheerr@gmail.com](mailto:rizwanzaheerr@gmail.com)
 * 🧠  Learning something new...
 * 🤝  Open to collaborating
